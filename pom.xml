@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>task5</finalName>
+    <finalName>task1</finalName>
   </build>
 </project>
