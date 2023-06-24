@@ -11,11 +11,11 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.2</version>
+      <version>3.8.5</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
   <build>
-    <finalName>task3</finalName>
+    <finalName>task7</finalName>
   </build>
 </project>
